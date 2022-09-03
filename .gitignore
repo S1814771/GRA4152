@@ -1,4 +1,8 @@
+
 Book/
 *.pdf
 uml_diagrams
 Lecture-1/*.pdf
+# ignore foo.py file
+foo.py
+
